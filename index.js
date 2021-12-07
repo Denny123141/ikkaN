@@ -1183,8 +1183,8 @@ const bayarLimit = (sender, amount) => {
 																											} else if (levelRole <= 90000) {
 																												role = 'Pro 숒'
 																												} else if (levelRole <= 100000) {
-																													role = 'Pro × GrandLegends 숒'
-																											    }																												    }
+																												    	role = 'Pro × GrandLegends 숒'
+																											        }																												    }
            const timuu = moment.tz('Asia/Jakarta').format('HH:mm:ss')
 			const hariRaya = new Date('Jan 12, 2022 07:00:00')
 			const sekarang = new Date().getTime();
